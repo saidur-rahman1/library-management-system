@@ -3,14 +3,14 @@ A GUI based management system for an educational institution that can keep a tra
 
 To run this project, please open and run the Start.java file
 
-You can test the system using the credentials shared below,
-Admin Credentials:
-Username: admin123
-Password: Admin@123
-
-Librarian Credentials:
-Username: librarian3
-Password: librarian3
+You can test the system using the credentials shared below,\n
+Admin Credentials:\n
+Username: admin123\n
+Password: Admin@123\n
+\n
+Librarian Credentials:\n
+Username: librarian3\n
+Password: librarian3\n
 
 Reference:
 - https://www.javatpoint.com/library-management-system-in-java-swing
